@@ -4,7 +4,7 @@ This repository contains all the material related to the Imperative Programming 
 
 ## 📄 Contents
 
-- Both parts of the set of 50 exercises provided by the course, with corresponding solutions (total of 100 exercises)    
+- 50 exercises provided by the course, with corresponding solutions     
 
 ## ⚙️ How to use
 
