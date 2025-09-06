@@ -4,10 +4,7 @@ This repository contains all the material related to the Imperative Programming 
 
 ## 📄 Contents
 
-- All worksheets with their respective solutions  
-- Statements of the three online tests, along with their solutions  
-- Both parts of the set of 50 exercises provided by the course, with corresponding solutions (total of 100 exercises)  
-- Solutions to some past tests and exams  
+- Both parts of the set of 50 exercises provided by the course, with corresponding solutions (total of 100 exercises)    
 
 ## ⚙️ How to use
 
